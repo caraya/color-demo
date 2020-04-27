@@ -1,0 +1,1226 @@
+:root { 
+@property --color-white {
+    syntax: "<color>";
+    initialValue: "#fffefc";
+    inherits: true;
+}
+
+@property --color-pearl {
+    syntax: "<color>";
+    initialValue: "#fbfcf7";
+    inherits: true;
+}
+
+@property --color-alabaster {
+    syntax: "<color>";
+    initialValue: "#fefaf0";
+    inherits: true;
+}
+
+@property --color-snow {
+    syntax: "<color>";
+    initialValue: "#f4fefd";
+    inherits: true;
+}
+
+@property --color-ivory {
+    syntax: "<color>";
+    initialValue: "#fef7e5";
+    inherits: true;
+}
+
+@property --color-cream {
+    syntax: "<color>";
+    initialValue: "#fffbda";
+    inherits: true;
+}
+
+@property --color-eggshell {
+    syntax: "<color>";
+    initialValue: "#fef9e3";
+    inherits: true;
+}
+
+@property --color-cotton {
+    syntax: "<color>";
+    initialValue: "#fbfcf7";
+    inherits: true;
+}
+
+@property --color-chiffon {
+    syntax: "<color>";
+    initialValue: "#fafaf1";
+    inherits: true;
+}
+
+@property --color-salt {
+    syntax: "<color>";
+    initialValue: "#f8efec";
+    inherits: true;
+}
+
+@property --color-lace {
+    syntax: "<color>";
+    initialValue: "#faf3ea";
+    inherits: true;
+}
+
+@property --color-coconut {
+    syntax: "<color>";
+    initialValue: "#fff1e6";
+    inherits: true;
+}
+
+@property --color-linen {
+    syntax: "<color>";
+    initialValue: "#f2ebd3";
+    inherits: true;
+}
+
+@property --color-bone {
+    syntax: "<color>";
+    initialValue: "#e7dfcc";
+    inherits: true;
+}
+
+@property --color-porcelain {
+    syntax: "<color>";
+    initialValue: "#fffffc";
+    inherits: true;
+}
+
+@property --color-parchment {
+    syntax: "<color>";
+    initialValue: "#fcf6df";
+    inherits: true;
+}
+
+@property --color-rice {
+    syntax: "<color>";
+    initialValue: "#fbf6ef";
+    inherits: true;
+}
+
+@property --color-blue {
+    syntax: "<color>";
+    initialValue: "#0074d9";
+    inherits: true;
+}
+
+@property --color-navy {
+    syntax: "<color>";
+    initialValue: "#001f3f";
+    inherits: true;
+}
+
+@property --color-aqua {
+    syntax: "<color>";
+    initialValue: "#7fdbff";
+    inherits: true;
+}
+
+@property --color-sky {
+    syntax: "<color>";
+    initialValue: "#00b2ff";
+    inherits: true;
+}
+
+@property --color-teal {
+    syntax: "<color>";
+    initialValue: "#39cccc";
+    inherits: true;
+}
+
+@property --color-slate {
+    syntax: "<color>";
+    initialValue: "#757b87";
+    inherits: true;
+}
+
+@property --color-indigo {
+    syntax: "<color>";
+    initialValue: "#281e5d";
+    inherits: true;
+}
+
+@property --color-cobalt {
+    syntax: "<color>";
+    initialValue: "#1438bd";
+    inherits: true;
+}
+
+@property --color-ocean {
+    syntax: "<color>";
+    initialValue: "#026063";
+    inherits: true;
+}
+
+@property --color-peacock {
+    syntax: "<color>";
+    initialValue: "#002d37";
+    inherits: true;
+}
+
+@property --color-azure {
+    syntax: "<color>";
+    initialValue: "#1621a6";
+    inherits: true;
+}
+
+@property --color-cerulean {
+    syntax: "<color>";
+    initialValue: "#0592c2";
+    inherits: true;
+}
+
+@property --color-lapis {
+    syntax: "<color>";
+    initialValue: "#2632c2";
+    inherits: true;
+}
+
+@property --color-spruce {
+    syntax: "<color>";
+    initialValue: "#2c3e4b";
+    inherits: true;
+}
+
+@property --color-stone {
+    syntax: "<color>";
+    initialValue: "#59788d";
+    inherits: true;
+}
+
+@property --color-aegean {
+    syntax: "<color>";
+    initialValue: "#1e456e";
+    inherits: true;
+}
+
+@property --color-berry {
+    syntax: "<color>";
+    initialValue: "#24146f";
+    inherits: true;
+}
+
+@property --color-denim {
+    syntax: "<color>";
+    initialValue: "#141e3c";
+    inherits: true;
+}
+
+@property --color-admiral {
+    syntax: "<color>";
+    initialValue: "#061094";
+    inherits: true;
+}
+
+@property --color-sapphire {
+    syntax: "<color>";
+    initialValue: "#52b2c0";
+    inherits: true;
+}
+
+@property --color-arctic {
+    syntax: "<color>";
+    initialValue: "#82edfd";
+    inherits: true;
+}
+
+@property --color-tan {
+    syntax: "<color>";
+    initialValue: "#e5dbac";
+    inherits: true;
+}
+
+@property --color-beige {
+    syntax: "<color>";
+    initialValue: "#ecdc99";
+    inherits: true;
+}
+
+@property --color-macaroon {
+    syntax: "<color>";
+    initialValue: "#f7df75";
+    inherits: true;
+}
+
+@property --color-hazelwood {
+    syntax: "<color>";
+    initialValue: "#c9bc8e";
+    inherits: true;
+}
+
+@property --color-granola {
+    syntax: "<color>";
+    initialValue: "#d6b75a";
+    inherits: true;
+}
+
+@property --color-oat {
+    syntax: "<color>";
+    initialValue: "#dec98a";
+    inherits: true;
+}
+
+@property --color-eggnog {
+    syntax: "<color>";
+    initialValue: "#fbe29d";
+    inherits: true;
+}
+
+@property --color-fawn {
+    syntax: "<color>";
+    initialValue: "#c7a951";
+    inherits: true;
+}
+
+@property --color-sugarcookie {
+    syntax: "<color>";
+    initialValue: "#f3ebad";
+    inherits: true;
+}
+
+@property --color-sand {
+    syntax: "<color>";
+    initialValue: "#d7b963";
+    inherits: true;
+}
+
+@property --color-sepia {
+    syntax: "<color>";
+    initialValue: "#e3b678";
+    inherits: true;
+}
+
+@property --color-latte {
+    syntax: "<color>";
+    initialValue: "#e9c17b";
+    inherits: true;
+}
+
+@property --color-oyster {
+    syntax: "<color>";
+    initialValue: "#dcd69f";
+    inherits: true;
+}
+
+@property --color-biscotti {
+    syntax: "<color>";
+    initialValue: "#e3c565";
+    inherits: true;
+}
+
+@property --color-parmesean {
+    syntax: "<color>";
+    initialValue: "#fee993";
+    inherits: true;
+}
+
+@property --color-hazelnut {
+    syntax: "<color>";
+    initialValue: "#bda55d";
+    inherits: true;
+}
+
+@property --color-sandcastle {
+    syntax: "<color>";
+    initialValue: "#dbc27d";
+    inherits: true;
+}
+
+@property --color-buttermilk {
+    syntax: "<color>";
+    initialValue: "#fdefb2";
+    inherits: true;
+}
+
+@property --color-sanddollar {
+    syntax: "<color>";
+    initialValue: "#ebe7b9";
+    inherits: true;
+}
+
+@property --color-shortbread {
+    syntax: "<color>";
+    initialValue: "#fce791";
+    inherits: true;
+}
+
+@property --color-yellow {
+    syntax: "<color>";
+    initialValue: "#ffdc00";
+    inherits: true;
+}
+
+@property --color-canary {
+    syntax: "<color>";
+    initialValue: "#fac801";
+    inherits: true;
+}
+
+@property --color-gold {
+    syntax: "<color>";
+    initialValue: "#f9a602";
+    inherits: true;
+}
+
+@property --color-daffodil {
+    syntax: "<color>";
+    initialValue: "#feee88";
+    inherits: true;
+}
+
+@property --color-flaxen {
+    syntax: "<color>";
+    initialValue: "#d5b65a";
+    inherits: true;
+}
+
+@property --color-butter {
+    syntax: "<color>";
+    initialValue: "#fee226";
+    inherits: true;
+}
+
+@property --color-lemon {
+    syntax: "<color>";
+    initialValue: "#effd5f";
+    inherits: true;
+}
+
+@property --color-mustard {
+    syntax: "<color>";
+    initialValue: "#e9b829";
+    inherits: true;
+}
+
+@property --color-corn {
+    syntax: "<color>";
+    initialValue: "#e4cd04";
+    inherits: true;
+}
+
+@property --color-medallion {
+    syntax: "<color>";
+    initialValue: "#e4b103";
+    inherits: true;
+}
+
+@property --color-dandelion {
+    syntax: "<color>";
+    initialValue: "#fdce2a";
+    inherits: true;
+}
+
+@property --color-bumblebee {
+    syntax: "<color>";
+    initialValue: "#fce206";
+    inherits: true;
+}
+
+@property --color-banana {
+    syntax: "<color>";
+    initialValue: "#fcf4a3";
+    inherits: true;
+}
+
+@property --color-butterscotch {
+    syntax: "<color>";
+    initialValue: "#fabd04";
+    inherits: true;
+}
+
+@property --color-dijon {
+    syntax: "<color>";
+    initialValue: "#c29200";
+    inherits: true;
+}
+
+@property --color-honey {
+    syntax: "<color>";
+    initialValue: "#ec9707";
+    inherits: true;
+}
+
+@property --color-blonde {
+    syntax: "<color>";
+    initialValue: "#fdeb75";
+    inherits: true;
+}
+
+@property --color-pineapple {
+    syntax: "<color>";
+    initialValue: "#ffe327";
+    inherits: true;
+}
+
+@property --color-tuscansun {
+    syntax: "<color>";
+    initialValue: "#fcd12a";
+    inherits: true;
+}
+
+@property --color-orange {
+    syntax: "<color>";
+    initialValue: "#ff851b";
+    inherits: true;
+}
+
+@property --color-tangerine {
+    syntax: "<color>";
+    initialValue: "#f98228";
+    inherits: true;
+}
+
+@property --color-merigold {
+    syntax: "<color>";
+    initialValue: "#fdae1d";
+    inherits: true;
+}
+
+@property --color-cider {
+    syntax: "<color>";
+    initialValue: "#b66827";
+    inherits: true;
+}
+
+@property --color-rust {
+    syntax: "<color>";
+    initialValue: "#8c4005";
+    inherits: true;
+}
+
+@property --color-ginger {
+    syntax: "<color>";
+    initialValue: "#bc5703";
+    inherits: true;
+}
+
+@property --color-tiger {
+    syntax: "<color>";
+    initialValue: "#fb6b02";
+    inherits: true;
+}
+
+@property --color-bronze {
+    syntax: "<color>";
+    initialValue: "#b2560c";
+    inherits: true;
+}
+
+@property --color-cantaloupe {
+    syntax: "<color>";
+    initialValue: "#fca172";
+    inherits: true;
+}
+
+@property --color-apricot {
+    syntax: "<color>";
+    initialValue: "#ed810f";
+    inherits: true;
+}
+
+@property --color-carrot {
+    syntax: "<color>";
+    initialValue: "#ed7116";
+    inherits: true;
+}
+
+@property --color-squash {
+    syntax: "<color>";
+    initialValue: "#c95c09";
+    inherits: true;
+}
+
+@property --color-spice {
+    syntax: "<color>";
+    initialValue: "#7a3a03";
+    inherits: true;
+}
+
+@property --color-marmalade {
+    syntax: "<color>";
+    initialValue: "#d16102";
+    inherits: true;
+}
+
+@property --color-amber {
+    syntax: "<color>";
+    initialValue: "#893201";
+    inherits: true;
+}
+
+@property --color-sandstone {
+    syntax: "<color>";
+    initialValue: "#d57128";
+    inherits: true;
+}
+
+@property --color-yam {
+    syntax: "<color>";
+    initialValue: "#cc5801";
+    inherits: true;
+}
+
+@property --color-red {
+    syntax: "<color>";
+    initialValue: "#ff4136";
+    inherits: true;
+}
+
+@property --color-cherry {
+    syntax: "<color>";
+    initialValue: "#9a0f02";
+    inherits: true;
+}
+
+@property --color-rose {
+    syntax: "<color>";
+    initialValue: "#e2252a";
+    inherits: true;
+}
+
+@property --color-jam {
+    syntax: "<color>";
+    initialValue: "#600f0b";
+    inherits: true;
+}
+
+@property --color-merlot {
+    syntax: "<color>";
+    initialValue: "#541f1b";
+    inherits: true;
+}
+
+@property --color-garnet {
+    syntax: "<color>";
+    initialValue: "#5f0a04";
+    inherits: true;
+}
+
+@property --color-crimson {
+    syntax: "<color>";
+    initialValue: "#b8100a";
+    inherits: true;
+}
+
+@property --color-ruby {
+    syntax: "<color>";
+    initialValue: "#900503";
+    inherits: true;
+}
+
+@property --color-scarlet {
+    syntax: "<color>";
+    initialValue: "#910d08";
+    inherits: true;
+}
+
+@property --color-redwine {
+    syntax: "<color>";
+    initialValue: "#4c0805";
+    inherits: true;
+}
+
+@property --color-redapple {
+    syntax: "<color>";
+    initialValue: "#a91b0d";
+    inherits: true;
+}
+
+@property --color-mahogany {
+    syntax: "<color>";
+    initialValue: "#420d09";
+    inherits: true;
+}
+
+@property --color-blood {
+    syntax: "<color>";
+    initialValue: "#710c04";
+    inherits: true;
+}
+
+@property --color-sangria {
+    syntax: "<color>";
+    initialValue: "#5f1914";
+    inherits: true;
+}
+
+@property --color-currant {
+    syntax: "<color>";
+    initialValue: "#670c07";
+    inherits: true;
+}
+
+@property --color-blush {
+    syntax: "<color>";
+    initialValue: "#bb544a";
+    inherits: true;
+}
+
+@property --color-candy {
+    syntax: "<color>";
+    initialValue: "#d31603";
+    inherits: true;
+}
+
+@property --color-lipstick {
+    syntax: "<color>";
+    initialValue: "#9b0f02";
+    inherits: true;
+}
+
+@property --color-pink {
+    syntax: "<color>";
+    initialValue: "#f69acd";
+    inherits: true;
+}
+
+@property --color-fuchsia {
+    syntax: "<color>";
+    initialValue: "#f012be";
+    inherits: true;
+}
+
+@property --color-punch {
+    syntax: "<color>";
+    initialValue: "#f25278";
+    inherits: true;
+}
+
+@property --color-watermelon {
+    syntax: "<color>";
+    initialValue: "#fe809c";
+    inherits: true;
+}
+
+@property --color-flamingo {
+    syntax: "<color>";
+    initialValue: "#fda4b8";
+    inherits: true;
+}
+
+@property --color-rouge {
+    syntax: "<color>";
+    initialValue: "#f26c8c";
+    inherits: true;
+}
+
+@property --color-salmon {
+    syntax: "<color>";
+    initialValue: "#fdab9f";
+    inherits: true;
+}
+
+@property --color-coral {
+    syntax: "<color>";
+    initialValue: "#fe7d67";
+    inherits: true;
+}
+
+@property --color-peach {
+    syntax: "<color>";
+    initialValue: "#fb9483";
+    inherits: true;
+}
+
+@property --color-strawberry {
+    syntax: "<color>";
+    initialValue: "#fc4c4e";
+    inherits: true;
+}
+
+@property --color-rosewood {
+    syntax: "<color>";
+    initialValue: "#a04242";
+    inherits: true;
+}
+
+@property --color-lemonade {
+    syntax: "<color>";
+    initialValue: "#fabacb";
+    inherits: true;
+}
+
+@property --color-taffy {
+    syntax: "<color>";
+    initialValue: "#fa85c4";
+    inherits: true;
+}
+
+@property --color-bubblegum {
+    syntax: "<color>";
+    initialValue: "#fd5ca8";
+    inherits: true;
+}
+
+@property --color-balletslipper {
+    syntax: "<color>";
+    initialValue: "#f69abf";
+    inherits: true;
+}
+
+@property --color-crepe {
+    syntax: "<color>";
+    initialValue: "#f1b7c6";
+    inherits: true;
+}
+
+@property --color-maroon {
+    syntax: "<color>";
+    initialValue: "#85144b";
+    inherits: true;
+}
+
+@property --color-hotpink {
+    syntax: "<color>";
+    initialValue: "#ff1696";
+    inherits: true;
+}
+
+@property --color-purple {
+    syntax: "<color>";
+    initialValue: "#b10dc9";
+    inherits: true;
+}
+
+@property --color-mauve {
+    syntax: "<color>";
+    initialValue: "#7a4a89";
+    inherits: true;
+}
+
+@property --color-violet {
+    syntax: "<color>";
+    initialValue: "#710193";
+    inherits: true;
+}
+
+@property --color-boysenberry {
+    syntax: "<color>";
+    initialValue: "#630536";
+    inherits: true;
+}
+
+@property --color-lavender {
+    syntax: "<color>";
+    initialValue: "#e3a0f6";
+    inherits: true;
+}
+
+@property --color-plum {
+    syntax: "<color>";
+    initialValue: "#601a36";
+    inherits: true;
+}
+
+@property --color-lilac {
+    syntax: "<color>";
+    initialValue: "#b65fcd";
+    inherits: true;
+}
+
+@property --color-periwinkle {
+    syntax: "<color>";
+    initialValue: "#be93d4";
+    inherits: true;
+}
+
+@property --color-eggplant {
+    syntax: "<color>";
+    initialValue: "#311431";
+    inherits: true;
+}
+
+@property --color-iris {
+    syntax: "<color>";
+    initialValue: "#9866c5";
+    inherits: true;
+}
+
+@property --color-heather {
+    syntax: "<color>";
+    initialValue: "#9b7cb9";
+    inherits: true;
+}
+
+@property --color-amethyst {
+    syntax: "<color>";
+    initialValue: "#a45de4";
+    inherits: true;
+}
+
+@property --color-raisin {
+    syntax: "<color>";
+    initialValue: "#290916";
+    inherits: true;
+}
+
+@property --color-orchid {
+    syntax: "<color>";
+    initialValue: "#af69ee";
+    inherits: true;
+}
+
+@property --color-mulberry {
+    syntax: "<color>";
+    initialValue: "#4d0220";
+    inherits: true;
+}
+
+@property --color-green {
+    syntax: "<color>";
+    initialValue: "#2ecc40";
+    inherits: true;
+}
+
+@property --color-chartreuse {
+    syntax: "<color>";
+    initialValue: "#b0fd38";
+    inherits: true;
+}
+
+@property --color-juniper {
+    syntax: "<color>";
+    initialValue: "#395311";
+    inherits: true;
+}
+
+@property --color-sage {
+    syntax: "<color>";
+    initialValue: "#728c69";
+    inherits: true;
+}
+
+@property --color-lime {
+    syntax: "<color>";
+    initialValue: "#01ff70";
+    inherits: true;
+}
+
+@property --color-fern {
+    syntax: "<color>";
+    initialValue: "#5dbc64";
+    inherits: true;
+}
+
+@property --color-olive {
+    syntax: "<color>";
+    initialValue: "#98bf64";
+    inherits: true;
+}
+
+@property --color-emerald {
+    syntax: "<color>";
+    initialValue: "#038911";
+    inherits: true;
+}
+
+@property --color-pear {
+    syntax: "<color>";
+    initialValue: "#74b62d";
+    inherits: true;
+}
+
+@property --color-moss {
+    syntax: "<color>";
+    initialValue: "#476d1e";
+    inherits: true;
+}
+
+@property --color-shamrock {
+    syntax: "<color>";
+    initialValue: "#03ac13";
+    inherits: true;
+}
+
+@property --color-seafoam {
+    syntax: "<color>";
+    initialValue: "#3cec96";
+    inherits: true;
+}
+
+@property --color-pine {
+    syntax: "<color>";
+    initialValue: "#24501e";
+    inherits: true;
+}
+
+@property --color-parakeet {
+    syntax: "<color>";
+    initialValue: "#02c04a";
+    inherits: true;
+}
+
+@property --color-mint {
+    syntax: "<color>";
+    initialValue: "#98ecc3";
+    inherits: true;
+}
+
+@property --color-seaweed {
+    syntax: "<color>";
+    initialValue: "#354b21";
+    inherits: true;
+}
+
+@property --color-pickle {
+    syntax: "<color>";
+    initialValue: "#5a7d36";
+    inherits: true;
+}
+
+@property --color-pistachio {
+    syntax: "<color>";
+    initialValue: "#b2d3c1";
+    inherits: true;
+}
+
+@property --color-basil {
+    syntax: "<color>";
+    initialValue: "#32622d";
+    inherits: true;
+}
+
+@property --color-crocodile {
+    syntax: "<color>";
+    initialValue: "#5f7c3a";
+    inherits: true;
+}
+
+@property --color-brown {
+    syntax: "<color>";
+    initialValue: "#241709";
+    inherits: true;
+}
+
+@property --color-coffee {
+    syntax: "<color>";
+    initialValue: "#4b371c";
+    inherits: true;
+}
+
+@property --color-mocha {
+    syntax: "<color>";
+    initialValue: "#3c290d";
+    inherits: true;
+}
+
+@property --color-peanut {
+    syntax: "<color>";
+    initialValue: "#795c34";
+    inherits: true;
+}
+
+@property --color-carob {
+    syntax: "<color>";
+    initialValue: "#35260f";
+    inherits: true;
+}
+
+@property --color-hickory {
+    syntax: "<color>";
+    initialValue: "#371d10";
+    inherits: true;
+}
+
+@property --color-pecan {
+    syntax: "<color>";
+    initialValue: "#4a2512";
+    inherits: true;
+}
+
+@property --color-walnut {
+    syntax: "<color>";
+    initialValue: "#432711";
+    inherits: true;
+}
+
+@property --color-caramel {
+    syntax: "<color>";
+    initialValue: "#66360f";
+    inherits: true;
+}
+
+@property --color-gingerbread {
+    syntax: "<color>";
+    initialValue: "#5d2c04";
+    inherits: true;
+}
+
+@property --color-chocolate {
+    syntax: "<color>";
+    initialValue: "#2c1603";
+    inherits: true;
+}
+
+@property --color-tortilla {
+    syntax: "<color>";
+    initialValue: "#9a7b4f";
+    inherits: true;
+}
+
+@property --color-umber {
+    syntax: "<color>";
+    initialValue: "#352415";
+    inherits: true;
+}
+
+@property --color-tawny {
+    syntax: "<color>";
+    initialValue: "#7e491d";
+    inherits: true;
+}
+
+@property --color-brunette {
+    syntax: "<color>";
+    initialValue: "#391e07";
+    inherits: true;
+}
+
+@property --color-cinammon {
+    syntax: "<color>";
+    initialValue: "#642b0d";
+    inherits: true;
+}
+
+@property --color-penny {
+    syntax: "<color>";
+    initialValue: "#522915";
+    inherits: true;
+}
+
+@property --color-grey {
+    syntax: "<color>";
+    initialValue: "#aaaaaa";
+    inherits: true;
+}
+
+@property --color-shadow {
+    syntax: "<color>";
+    initialValue: "#373737";
+    inherits: true;
+}
+
+@property --color-graphite {
+    syntax: "<color>";
+    initialValue: "#584d5b";
+    inherits: true;
+}
+
+@property --color-iron {
+    syntax: "<color>";
+    initialValue: "#332d31";
+    inherits: true;
+}
+
+@property --color-pewter {
+    syntax: "<color>";
+    initialValue: "#6a6880";
+    inherits: true;
+}
+
+@property --color-cloud {
+    syntax: "<color>";
+    initialValue: "#c5c5d0";
+    inherits: true;
+}
+
+@property --color-silver {
+    syntax: "<color>";
+    initialValue: "#dddddd";
+    inherits: true;
+}
+
+@property --color-smoke {
+    syntax: "<color>";
+    initialValue: "#59515f";
+    inherits: true;
+}
+
+@property --color-anchor {
+    syntax: "<color>";
+    initialValue: "#42424c";
+    inherits: true;
+}
+
+@property --color-ash {
+    syntax: "<color>";
+    initialValue: "#554c4d";
+    inherits: true;
+}
+
+@property --color-porpoise {
+    syntax: "<color>";
+    initialValue: "#4d4c5c";
+    inherits: true;
+}
+
+@property --color-dove {
+    syntax: "<color>";
+    initialValue: "#7c6e7f";
+    inherits: true;
+}
+
+@property --color-fog {
+    syntax: "<color>";
+    initialValue: "#655965";
+    inherits: true;
+}
+
+@property --color-flint {
+    syntax: "<color>";
+    initialValue: "#7d7c9c";
+    inherits: true;
+}
+
+@property --color-pebble {
+    syntax: "<color>";
+    initialValue: "#333333";
+    inherits: true;
+}
+
+@property --color-lead {
+    syntax: "<color>";
+    initialValue: "#403f4e";
+    inherits: true;
+}
+
+@property --color-coin {
+    syntax: "<color>";
+    initialValue: "#9897a9";
+    inherits: true;
+}
+
+@property --color-fossil {
+    syntax: "<color>";
+    initialValue: "#787276";
+    inherits: true;
+}
+
+@property --color-black {
+    syntax: "<color>";
+    initialValue: "#111111";
+    inherits: true;
+}
+
+@property --color-ebony {
+    syntax: "<color>";
+    initialValue: "#080401";
+    inherits: true;
+}
+
+@property --color-crow {
+    syntax: "<color>";
+    initialValue: "#25221F";
+    inherits: true;
+}
+
+@property --color-charcoal {
+    syntax: "<color>";
+    initialValue: "#222022";
+    inherits: true;
+}
+
+}

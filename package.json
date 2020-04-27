@@ -1,0 +1,14 @@
+{
+  "name": "color-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "colors.js",
+  "scripts": {
+    "colors": "node --experimental-modules colors.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Araya <carlos.araya@gmail.com> (https://publishing-project.rivendellweb.net/)",
+  "license": "MIT"
+}
